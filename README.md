@@ -1,4 +1,4 @@
-☕ Java Learning Repository
+☕ **Java Learning Repository**
 
 This repository contains my Java practice programs organized topic-wise.
 It includes fundamental concepts, problem-solving exercises, and DSA basics implemented in Java.
@@ -6,23 +6,23 @@ It includes fundamental concepts, problem-solving exercises, and DSA basics impl
 
 ------------------------------------------------------------------------------------------------
 
-📚 Topics Covered
+📚 **Topics Covered**
 
-🔹 Basics
+🔹 **Basics**
 
 * Input / Output
 * Conditional statements
 * Loops
 * Mathematical programs
 
-🔹 Functions
+🔹 **Functions**
 
 * Parameterized methods
 * Return types
 * Function overloading
 * Utility functions
 
-🔹 Arrays
+🔹 **Arrays**
 
 * Linear Search
 * Binary Search
@@ -33,7 +33,7 @@ It includes fundamental concepts, problem-solving exercises, and DSA basics impl
 * Stock Buy & Sell
 * Duplicate detection
 
-🔹 Sorting Algorithms
+🔹 **Sorting Algorithms**
 
 * Bubble Sort
 * Selection Sort
@@ -41,7 +41,7 @@ It includes fundamental concepts, problem-solving exercises, and DSA basics impl
 * Counting Sort
 * Inbuilt Sorting (Arrays.sort)
 
-🔹 Matrices (2D Arrays)
+🔹 **Matrices (2D Arrays)**
 
 * Matrix input/output
 * Spiral traversal
@@ -50,7 +50,7 @@ It includes fundamental concepts, problem-solving exercises, and DSA basics impl
 * Transpose (new matrix & in-place)
 * Assignment problems
 
-🔹 Strings
+🔹 **Strings**
 
 * String traversal
 * Palindrome checking
@@ -61,14 +61,14 @@ It includes fundamental concepts, problem-solving exercises, and DSA basics impl
 * String compression
 * Vowel counting
 
-🔹 Patterns
+🔹 **Patterns**
 
 * Star patterns
 * Number patterns
 * Character patterns
 * Butterfly, Diamond, Rhombus, etc.
 
-🔹 Bit Manipulation
+🔹 **Bit Manipulation**
 
 * Bitwise Operators (AND, OR, XOR, NOT, Left Shift, Right Shift)
 * Check Even or Odd using Bit Manipulation
@@ -77,9 +77,63 @@ It includes fundamental concepts, problem-solving exercises, and DSA basics impl
 * Clear Ith Bit
 * Update Ith Bit
 
+  
+🔹 **Class & Object**
+
+* Creating classes and objects
+* Defining properties and methods
+* Object initialization
+
+🔹 **Encapsulation**
+
+* Data hiding
+* Private variables
+* Getter and Setter methods
+
+🔹 **Constructors**
+
+* Non-Parameterized Constructor
+* Parameterized Constructor
+* Constructor Overloading
+* Copy Constructor
+* Deep Copy Constructor
+
+🔹 **Inheritance**
+
+* Single Inheritance
+* Multilevel Inheritance
+* Hierarchical Inheritance
+* Hybrid Inheritance
+
+🔹 **Polymorphism**
+
+* Method Overloading
+* Method Overriding
+
+🔹 **Abstraction**
+
+* Abstract Classes
+* Abstract Methods
+
+🔹 **Interfaces**
+
+* Interface implementation
+* Multiple inheritance using interfaces
+
+🔹 **Keywords**
+
+* `static` keyword
+* `super` keyword
+
+🔹 **Packages**
+
+* Built-in packages
+* User-defined packages
+* Importing classes from packages
+
 ------------------------------------------------------------------------------------------------
 
-🎯 Purpose
+🎯 **Purpose**
 
 * Strengthen Java fundamentals
 * Build problem-solving skills
@@ -89,13 +143,13 @@ It includes fundamental concepts, problem-solving exercises, and DSA basics impl
 ------------------------------------------------------------------------------------------------
 
 
-🛠️ Language Used
+🛠️ **Language Used**
 
   **Java**
 
 ------------------------------------------------------------------------------------------------
 
-🚀 Author
+🚀 **Author**
 
 **Dipanshu**
 
